@@ -1,0 +1,43 @@
+body{
+    background-color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#container{
+    color :aliceblue
+}
+.digit{
+    font-size: 150px;
+    font-weight: bold;
+}
+.text{
+    font-size: 40px;
+    font-weight: bold;
+}
+#btn-container
+{
+    text-align: center;
+    margin-top: 50px;
+
+    
+}
+.btn{
+    padding: 7px 25px;
+    font-size:25px;
+    margin: 0 10px;
+    color:white;
+    border: 0px;
+    cursor: pointer;
+   
+}
+#start{
+ color: #00bfff;
+}
+#stop{
+color: red;
+}
+#reset{
+color:cornflowerblue;
+}
